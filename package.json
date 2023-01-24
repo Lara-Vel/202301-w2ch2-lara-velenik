@@ -1,0 +1,15 @@
+{
+  "name": "202301-w2ch2-lara-velenik",
+  "version": "1.0.0",
+  "description": "Challenge 202301-w2ch2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "author": "Lara Velenik",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
